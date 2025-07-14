@@ -1,0 +1,2 @@
+chromaDB: https://docs.trychroma.com/docs/overview/getting-started
+    PersistentDB: https://docs.trychroma.com/docs/run-chroma/persistent-client

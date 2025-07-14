@@ -1,3 +1,7 @@
-langchain
-langchain-openai
 pypdf
+chromadb 
+langchain
+python-dotenv
+langchain-openai
+langchain-cohere
+langchain-google-genai
