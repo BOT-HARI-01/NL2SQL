@@ -27,7 +27,7 @@ To build an intelligent system that converts natural language queries into optim
 ---
 
 ### How to run this code
-1. Clone the master branch into your local machine 
+1. Clone the master branch into your local machine `git clone --single-branch --branch master https://github.com/BOT-HARI-01/NL2SQL.git`
 2. run `pip install -r requirements.txt`
 3. Setting up LLM'
    - Install Ollama & use any models
